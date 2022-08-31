@@ -1,4 +1,4 @@
 package pages;
-public class Contactpage {
+public class ContactPage {
   // html for email
 }
